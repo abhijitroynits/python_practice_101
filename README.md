@@ -17,5 +17,5 @@ Python - The New Boston.docx (https://github.com/abhijitroynits/python_practice_
 I have used PyCharm IDE for composing the programs. 
 
 
-P.S: The referred word doc has the snapshots of program execution.
+P.S: The referred word doc has the snapshots for most(unless spanning too many lines) of program execution.
 
