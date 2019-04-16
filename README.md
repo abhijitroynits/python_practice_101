@@ -1,5 +1,5 @@
 # python_practice_noob
-Contains Essential Python Beginner Lessons 
+Contains Essential Python Beginner and Intermediate Lessons 
 
 It is a walkthrough and major coverage of Python tutorials from thenewboston YouTube:
 
