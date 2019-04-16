@@ -12,7 +12,7 @@ As you follow along you may refer to the word document file:
 
 
 
-Python - The New Boston.docx (https://github.com/abhijitroynits/python_practice_noob/blob/master/Python%20-%20The%20New%20Boston.docx)
+*Python - The New Boston.docx* (https://github.com/abhijitroynits/python_practice_noob/blob/master/Python%20-%20The%20New%20Boston.docx)
 
 I have used PyCharm IDE for composing the programs. 
 
