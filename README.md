@@ -17,5 +17,5 @@ As you follow along you may refer to the word document file:
 I have used PyCharm IDE for composing the programs. 
 
 
-P.S: The referred word doc has the snapshots for most(unless spanning too many lines) of program execution.
+P.S: The referred word doc has the snapshots for most(except for longer programs) of program execution.
 
